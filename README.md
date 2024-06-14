@@ -18,7 +18,7 @@ Action2Sound is an ambient-aware approach that disentangles the action sound fro
 This repository contains scripts for processing the Ego4DSounds dataset. It includes functionality for loading video and audio data and extracting clips using metadata.
 
 - `extract_ego4d_clips.py`: Extracts clips from the Ego4D dataset
-- `dataset.py`: Defines the Ego4DSounds dataset class for loading, processing, and extracting video and audio clips
+- `dataset.py`: Defines the Ego4DSounds dataset class for loading and processing video and audio clips
 - Metadata files: `train_clips_1.2m.csv`, `test_clips_11k.csv`, `ego4d.json`
 
 Each row in the csv files has the following columns
