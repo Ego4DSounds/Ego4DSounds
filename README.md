@@ -1,0 +1,26 @@
+# Ego4DSounds
+
+Dataset introduced in _"Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos"_.
+
+This repository contains scripts for processing the Ego4DSounds dataset. It includes functionality for loading video and audio data and extracting clips using metadata.
+
+## Contents
+
+- `extract_ego4d_clips.py`: Extracts clips from the Ego4D dataset
+- `dataset.py`: Defines the Ego4DSounds dataset class for loading, processing, and extracting video and audio clips
+- Metadata files: `train_clips_1.2m.csv`, `test_clips_11k.csv`, `ego4d.json`
+
+<!--
+**Ego4DSounds/Ego4DSounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
